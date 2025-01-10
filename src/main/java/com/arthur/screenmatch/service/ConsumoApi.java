@@ -1,4 +1,4 @@
-package com.arthur.screenmatch.servicis;
+package com.arthur.screenmatch.service;
 
 import java.io.IOException;
 import java.net.URI;
